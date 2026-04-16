@@ -1,6 +1,3 @@
-05_oss_vi.pdf
-07_oss_gitignore (1).pdf
-08_oss_github_기초실습.pdf
 LICENSE
 README.md
 new/
